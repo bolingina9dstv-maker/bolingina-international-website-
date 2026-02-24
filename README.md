@@ -36,8 +36,8 @@ return ( <div className="min-h-screen bg-white text-gray-800 font-sans"> {/* HER
       <h2 className="text-3xl font-bold mb-6">About the CEO</h2>
       <p className="text-lg leading-relaxed">
         Dr. David Bola Oladiran is the Founder and CEO of Bolingina International.
-        He leads with a vision to strengthen food security in Edo State through
-        sustainable piggery farming, ethical livestock production, and structured
+        He leads with a vision to strengthen food security in Nigeria  through
+        sustainable piggery farming, ethical livestock production, agro processing and structured
         impact investment partnerships.
       </p>
     </div>
